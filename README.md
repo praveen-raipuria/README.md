@@ -1,11 +1,17 @@
 <h1>Hi 👋, I'm Praveen Raipuria</h1>
+
 <p>Passionate Software Automation Tester</p>
-- 👋 Hi, I’m @praveen-raipuria
+
 - 👀 I’m interested in Passionate Software Automation Tester
+
 - 🤝 I’m looking for help with Automation Frameworks
+
 - 🌱  I’m currently working on Selenium with Java & Rest Assured for API Testing.
+
 - 🌱 I’m currently learning Dockers and Kubernetes.
+
 - 💞️ All of my projects are available at https://github.com/praveen-raipuria
+
 - 📫 How to reach me praveenraipuria@gmail.com,
 - 😄 Know about my experiences https://linkedin.com/in/praveen-raipuria.
 
